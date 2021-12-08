@@ -1,0 +1,99 @@
+#amazon{
+  width:315px;
+  height:33px;
+  font-size:14px;
+
+  background: yellow;
+  border: 1px solid black;
+  margin-top: 10px;
+}
+
+
+
+body {
+    font-size: 16px;
+    line-height: 19px;
+    color: black;
+    font-family: Arial,sans-serif;
+}
+
+img{
+  display: block;
+  margin: 0 auto
+}
+
+#signInBorder{
+  position: static;
+  margin: 0  auto;
+  border-color:gray;
+  border: 1px solid gray;
+  width: 360px;
+  padding-left: 50px;
+}
+
+input{
+  border-left-color: gray;
+  border-right-color: gray;
+  border-radius: 3px;
+  border-width: 0.2px;
+  height: 25px;
+  width: 315px;
+  margin-bottom: 15px;
+
+}
+
+
+
+#SignInText{
+  font-family: Arial, sans-serif;
+  font-size: 26px;
+}
+
+
+#createAccount{
+  margin-top: 30px;
+}
+
+#newAccount{
+  background: gray;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-right: 50px;
+  width: 300px;
+  height:33px;
+  font-size:15px;
+  border: 1px solid black
+
+}
+
+
+#footer{
+  border: 0;
+   height: 0;
+   border-top: 1px solid black;
+   border-bottom: 1px solid gray;
+   margin-top: 30px;
+}
+
+
+
+a:link{
+  font-size: 12px;
+  margin-right: 10px;
+  text-decoration: none;
+  color: blue
+}
+
+
+ .links{
+  font-size: 10px;
+  text-align: center;
+  padding-left: 15px;
+}
+
+#password{
+  margin-left: 125px;
+}
+#special{
+  font-size: 11px;
+}
